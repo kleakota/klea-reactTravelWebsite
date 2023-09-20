@@ -167,6 +167,7 @@ h4 {
 }
 
 .sign-up > img {
+  background: url(/public/images/pic4.jpg);
   position: absolute;
   object-fit: cover;
   width: 350px;

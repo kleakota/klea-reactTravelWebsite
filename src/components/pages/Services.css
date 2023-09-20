@@ -13,7 +13,7 @@
   }
 
   .service-container h1 {
-    background: url('/src/components/images/pic2.jpg') center center/cover no-repeat;
+    background: url(/public/images/pic2.jpg) center center/cover no-repeat;
     padding-bottom: 30px;
     padding-top: 20px;
     color: rgb(255, 255, 255);

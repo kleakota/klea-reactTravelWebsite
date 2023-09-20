@@ -1,6 +1,5 @@
 import React from 'react';
 import '../../App.css';
-import pic4 from '../images/pic4.jpg';
 
 
 export default function SignUp() {
@@ -8,7 +7,7 @@ export default function SignUp() {
     <div className='form-modal__container'>
       <div className='form-modal__wrapper' >
         <div className='sign-up'>
-          <img src={pic4}></img>
+          <img></img>
         </div>
         <div className='sign-up__container'>
           <h2>Sign Up</h2>

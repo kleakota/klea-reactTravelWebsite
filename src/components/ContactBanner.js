@@ -13,15 +13,15 @@ function ContactBanner() {
         <h1>CONTACT US</h1>
         
         
-        <div className='info-container'>
-       <div className='info-title'>
+        <div className='contactInfo-container'>
+       <div className='contactInfo-title'>
       <h3> Plan your vacation with us.</h3>
     </div>
-    <div className='info-body'>
+    <div className='contactInfo-body'>
       <p> sunnytravel@info.com</p>
       <p>  +355 67 988 5543 </p>
     </div>
-    <div className='info-price'>
+    <div className='contactInfo-price'>
       <h4> Let's connect!</h4>
     </div>
     
