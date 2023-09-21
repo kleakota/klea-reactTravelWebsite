@@ -1,9 +1,7 @@
 import React from 'react';
 import '../App.css';
-import { Button } from './Button';
 import './Places.css';
-import card1 from "./images/card1.jpg";
-import card2 from "./images/card2.jpg";
+
 
 
 function Places() {

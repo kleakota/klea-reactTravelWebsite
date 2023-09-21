@@ -21,9 +21,7 @@ function ContactBanner() {
       <p> sunnytravel@info.com</p>
       <p>  +355 67 988 5543 </p>
     </div>
-    <div className='contactInfo-price'>
-      <h4> Let's connect!</h4>
-    </div>
+    
     
   </div>
         

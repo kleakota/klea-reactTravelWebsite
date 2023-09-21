@@ -27,6 +27,7 @@
     padding: 1rem;
     margin-right: 40px;
     width:80vh;
+    height:200px;
     overflow: hidden;
     box-shadow: 0px 0px 15px -5px;
     transition: 0.3s;
@@ -39,6 +40,7 @@
 }
 
 .contactInfo-title h3{
+    color: rgb(1, 57, 48);
     font-size: 18px;
     margin-top: 10px;
 }
@@ -48,15 +50,9 @@
     text-align: left;
 }
 
-.contactInfo-price h4 {
-    font-size: 16px;
-    font-weight: normal;
-    color: rgb(1, 57, 48);
-}
 
-.contactInfo-price{
-    margin-top: 10px;
-}
+
+
 
 .contact-btns{
     margin-top: 40px;

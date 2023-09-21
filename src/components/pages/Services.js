@@ -2,8 +2,6 @@ import React from 'react';
 import { Button } from '../Button';
 import '../../App.css';
 import CardItem from '../CardItem';
-import Footer from '../Footer';
-
 
 import '../Cards.css';
 import './Services.css';

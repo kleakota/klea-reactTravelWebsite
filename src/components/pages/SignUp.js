@@ -7,7 +7,7 @@ export default function SignUp() {
     <div className='form-modal__container'>
       <div className='form-modal__wrapper' >
         <div className='sign-up'>
-          <img></img>
+          <img alt="Sign Up"></img>
         </div>
         <div className='sign-up__container'>
           <h2>Sign Up</h2>
