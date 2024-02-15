@@ -1,4 +1,5 @@
 # React Travel Website
+This is a beautiful and useful travel website containing packages, destinations and more, using concepts of ReactJs.
 
 # Objectives
 The objectives were to learn more about using ReactJs as well as practice concepts such as flexboxes, containers, media queries, routers, cards and so on.
