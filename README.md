@@ -1,5 +1,4 @@
 # React Travel Website
-This is a beginner friendly project using ReactJs to create a travel website.
 
 # Objectives
 The objectives were to learn more about using ReactJs as well as practice concepts such as flexboxes, containers, media queries, routers, cards and so on.
